@@ -1,1 +1,1 @@
-#### Controle de Televisão: desenvolvimento de um programa com diversas funcionalidades. Implementado em Java
+#### Controle de Televisão: desenvolvimento de um programa com diversas funcionalidades. 
